@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/chakrouny3/.nuget/packages/": {}
+    "C:\\Users\\qdesm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/chakrouny3/Dev/DEVIUTYounesQuentin/DEVIUTYounesQuentin.csproj",
+      "projectUniqueName": "C:\\Users\\qdesm\\OneDrive\\Documents\\GitHub\\DEVIUTYounesQuentin\\DEVIUTYounesQuentin\\DEVIUTYounesQuentin.csproj",
       "projectName": "DEVIUTYounesQuentin",
-      "projectPath": "/home/chakrouny3/Dev/DEVIUTYounesQuentin/DEVIUTYounesQuentin.csproj",
-      "packagesPath": "/home/chakrouny3/.nuget/packages/",
-      "outputPath": "/home/chakrouny3/Dev/DEVIUTYounesQuentin/obj/",
+      "projectPath": "C:\\Users\\qdesm\\OneDrive\\Documents\\GitHub\\DEVIUTYounesQuentin\\DEVIUTYounesQuentin\\DEVIUTYounesQuentin.csproj",
+      "packagesPath": "C:\\Users\\qdesm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\qdesm\\OneDrive\\Documents\\GitHub\\DEVIUTYounesQuentin\\DEVIUTYounesQuentin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/chakrouny3/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\qdesm\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
