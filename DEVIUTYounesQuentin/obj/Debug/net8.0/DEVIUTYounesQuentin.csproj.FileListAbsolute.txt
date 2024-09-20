@@ -1,0 +1,14 @@
+C:\Users\qdesm\OneDrive\Documents\GitHub\DEV3iutYounesQuentin\DEVIUTYounesQuentin\bin\Debug\net8.0\DEVIUTYounesQuentin.exe
+C:\Users\qdesm\OneDrive\Documents\GitHub\DEV3iutYounesQuentin\DEVIUTYounesQuentin\bin\Debug\net8.0\DEVIUTYounesQuentin.deps.json
+C:\Users\qdesm\OneDrive\Documents\GitHub\DEV3iutYounesQuentin\DEVIUTYounesQuentin\bin\Debug\net8.0\DEVIUTYounesQuentin.runtimeconfig.json
+C:\Users\qdesm\OneDrive\Documents\GitHub\DEV3iutYounesQuentin\DEVIUTYounesQuentin\bin\Debug\net8.0\DEVIUTYounesQuentin.dll
+C:\Users\qdesm\OneDrive\Documents\GitHub\DEV3iutYounesQuentin\DEVIUTYounesQuentin\bin\Debug\net8.0\DEVIUTYounesQuentin.pdb
+C:\Users\qdesm\OneDrive\Documents\GitHub\DEV3iutYounesQuentin\DEVIUTYounesQuentin\obj\Debug\net8.0\DEVIUTYounesQuentin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qdesm\OneDrive\Documents\GitHub\DEV3iutYounesQuentin\DEVIUTYounesQuentin\obj\Debug\net8.0\DEVIUTYounesQuentin.AssemblyInfoInputs.cache
+C:\Users\qdesm\OneDrive\Documents\GitHub\DEV3iutYounesQuentin\DEVIUTYounesQuentin\obj\Debug\net8.0\DEVIUTYounesQuentin.AssemblyInfo.cs
+C:\Users\qdesm\OneDrive\Documents\GitHub\DEV3iutYounesQuentin\DEVIUTYounesQuentin\obj\Debug\net8.0\DEVIUTYounesQuentin.csproj.CoreCompileInputs.cache
+C:\Users\qdesm\OneDrive\Documents\GitHub\DEV3iutYounesQuentin\DEVIUTYounesQuentin\obj\Debug\net8.0\DEVIUTYounesQuentin.dll
+C:\Users\qdesm\OneDrive\Documents\GitHub\DEV3iutYounesQuentin\DEVIUTYounesQuentin\obj\Debug\net8.0\refint\DEVIUTYounesQuentin.dll
+C:\Users\qdesm\OneDrive\Documents\GitHub\DEV3iutYounesQuentin\DEVIUTYounesQuentin\obj\Debug\net8.0\DEVIUTYounesQuentin.pdb
+C:\Users\qdesm\OneDrive\Documents\GitHub\DEV3iutYounesQuentin\DEVIUTYounesQuentin\obj\Debug\net8.0\DEVIUTYounesQuentin.genruntimeconfig.cache
+C:\Users\qdesm\OneDrive\Documents\GitHub\DEV3iutYounesQuentin\DEVIUTYounesQuentin\obj\Debug\net8.0\ref\DEVIUTYounesQuentin.dll
