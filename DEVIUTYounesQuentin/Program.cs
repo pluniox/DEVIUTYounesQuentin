@@ -101,9 +101,8 @@ public class Library {
         }
     }
 
-    public bool EmprunterMedia(int reference, string utilisateur) {
-        Media media = this[reference];
-        if (media != null && media.nbExemplaire > 0) {
+    public bool EmprunterMedia(Media media, int reference, string utilisateur) {
+        if (media.GetReference() == reference && media.nbExemplaire > 0) {
             media.nbExemplaire--;
             emprunts.Add(new Emprunt(media, utilisateur));
             return true;
@@ -201,11 +200,14 @@ class Program {
         */
 
 
-       library.RetirerMedia(livre);
+       //library.RetirerMedia(livre);
 
-        if (library.EmprunterMedia(1234, "Utilisateur1")) {
+        if (library.EmprunterMedia(livre, 1234, "Utilisateur1")) {
             Console.WriteLine("Média emprunté avec succès !");
+        } else {
+            Console.WriteLine("Échec de l'emprunt.");
         }
+        
 
 /*        var resultatsRecherche = library.RechercherMedia("Younes");
         foreach (var media in resultatsRecherche) {
