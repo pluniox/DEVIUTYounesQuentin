@@ -5,12 +5,38 @@ public class Media {
     protected string title;
     protected int reference;
     protected int nbExemplaire;
+    public int NombreExemplairesDisponibles { get; set; }
 
     public Media(string title, int reference, int nbExemplaire) {
         this.title = title;
         this.reference = reference;
         this.nbExemplaire = nbExemplaire;
     }
+
+    // Surcharge de l'opérateur +
+    public static Media operator +(Media media, int nombreExemplaires)
+    {
+        media.NombreExemplairesDisponibles += nombreExemplaires;
+        return media;
+    }
+
+    // Surcharge de l'opérateur -
+    public static Media operator -(Media media, int nombreExemplaires)
+    {
+        if (media.NombreExemplairesDisponibles - nombreExemplaires < 0)
+        {
+            throw new InvalidOperationException("Pas assez d'exemplaires disponibles pour effectuer cette opération.");
+        }
+
+        media.NombreExemplairesDisponibles -= nombreExemplaires;
+        return media;
+     }
+
+     public virtual void AfficherInfos()
+        {
+            Console.WriteLine($"Titre : {title}, Référence : {reference}, Exemplaires disponibles : {NombreExemplairesDisponibles}");
+        }
+
 }
 
 public class Livre : Media {
