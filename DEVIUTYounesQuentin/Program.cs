@@ -226,7 +226,8 @@ class Program {
 
         // Affichage des statistiques
         library.AfficherStatistiques();
-
+       //library.RetirerMedia(livre)
+        
         // Recherche de médias par titre ou auteur
         var resultatsRecherche = library.RechercherMedia("Younes");
         foreach (var media in resultatsRecherche) {
