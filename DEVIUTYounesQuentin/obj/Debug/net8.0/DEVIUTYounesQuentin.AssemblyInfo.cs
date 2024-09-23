@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DEVIUTYounesQuentin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74de98e97d3d3f23b1f9f81d6e9fd474be9647b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5407a3f58e84c2829a88b48e16d2d292524bc571")]
 [assembly: System.Reflection.AssemblyProductAttribute("DEVIUTYounesQuentin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DEVIUTYounesQuentin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
